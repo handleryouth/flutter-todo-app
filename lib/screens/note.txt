@@ -1,0 +1,1 @@
+lib/screens/: Contains Dart files for different screens of your app, like the home screen, add task screen and task detail screen.
